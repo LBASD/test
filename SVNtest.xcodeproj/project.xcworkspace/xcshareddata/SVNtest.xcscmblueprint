@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "09d76a02-2976-454d-8696-1a17d6c55ae6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "09d76a02-2976-454d-8696-1a17d6c55ae6" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "09d76a02-2976-454d-8696-1a17d6c55ae6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C373757A-E221-41F3-A21E-5EFBFF59E7BF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "09d76a02-2976-454d-8696-1a17d6c55ae6" : "libo.local\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SVNtest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SVNtest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/libo.local",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "09d76a02-2976-454d-8696-1a17d6c55ae6"
+    }
+  ]
+}

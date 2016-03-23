@@ -10,8 +10,6 @@
 
 @interface ViewController ()
 
-@property (strong,nonatomic) NSMutableArray *dataArray;
-
 @end
 
 @implementation ViewController
